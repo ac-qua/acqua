@@ -1,12 +1,14 @@
 PROGRAM acqua
  
- USE readtheinput
+ USE readgaussianinp
  
  IMPLICIT NONE
 
  CHARACTER*8 inp
 
- CALL initialinput()
+! CALL initialinput()
+
+ CALL gaussianinput()
 
 ! READ(*,*) inp
 !
