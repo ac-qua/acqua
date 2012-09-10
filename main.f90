@@ -10,6 +10,7 @@ PROGRAM acqua
 
  CALL gaussianinput()
 
+
 ! READ(*,*) inp
 !
 !DO WHILE (inp.ne.'END')
